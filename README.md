@@ -82,6 +82,11 @@
 <br/>  
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbhijitKhyade)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
 ## Connect with me  
 <div align="left">
 <a href="https://github.com/AbhijitKhyade" target="_blank">
